@@ -15,9 +15,9 @@
 
 # Links:
 
-[__Blogger__](www.xerxesvincent.com)
+[Blogger](www.xerxesvincent.com)
 
-[LinkedIn](https://www.linkedin.com/in/tung-hsuan-liu-1914b41b4/)
+[Linkin](https://www.linkedin.com/in/tung-hsuan-liu-1914b41b4/)
 ----------------------------------------------------------
 Hello everyone, 
 
