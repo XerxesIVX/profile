@@ -19,7 +19,7 @@
 
 [Linkin](https://www.linkedin.com/in/tung-hsuan-liu-1914b41b4/)
 
-https://www.notion.so/Resume-bb865092491c4b00a06802d400e48ee5
+[Resume]https://www.notion.so/Resume-bb865092491c4b00a06802d400e48ee5
 ----------------------------------------------------------
 Hello everyone, 
 
