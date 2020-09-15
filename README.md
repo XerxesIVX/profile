@@ -1,8 +1,17 @@
 # profile
 ----------------------------------------------------------
 ## Languages: English
-## Programming Language: C#,Java,Labview,Python,SQL,MySQL, PostgreSQL
-### Intreset: Warhammer40k, Manga
+## Programming Language: 
+1. C#
+2. Java
+3. Labview
+4. Pyhton
+5. SQL
+6. MySQL
+7. PostgreSQL
+## Intreset:
+* Warhammer 40k
+* Manga
 ----------------------------------------------------------
 Hello everyone, 
 
