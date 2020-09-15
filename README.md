@@ -12,6 +12,7 @@
 ## Intreset:
 * Warhammer 40k
 * Manga
+[LinkedIn](https://www.linkedin.com/in/tung-hsuan-liu-1914b41b4/)
 ----------------------------------------------------------
 Hello everyone, 
 
