@@ -40,5 +40,10 @@ This introduction is only for Website Designing and Microservice course
 
 [Resume](https://www.notion.so/Resume-bb865092491c4b00a06802d400e48ee5)
 
+-------------------------------------------------------------
+# Favorite Video:
+
+[![We're human afterall.](https://www.youtube.com/watch?v=L3wKzyIN1yk&list=RDL3wKzyIN1yk&start_radio=1 "We're human afterall")]
+
 
 
